@@ -11,6 +11,6 @@ function readURL(input) {
         }
     }
     
-    uploadBtn.addEventListener('change',  function() {
-        readURL(this);
-    });
+uploadBtn.addEventListener('change',  function() {
+    readURL(this);
+});
